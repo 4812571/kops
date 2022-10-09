@@ -1,0 +1,4 @@
+project: kops
+target: fuzz_write_token
+cmds:
+- cmd: /out/fuzz_write_token
